@@ -36,7 +36,7 @@ poetry install
 
 ### Executar a aplicação:
 ```bash
-poetry run task run
+ task run
 ```
 
 Acesse em: [http://localhost:8000/docs](http://localhost:8000/docs) — Documentação Swagger
@@ -46,7 +46,7 @@ Acesse em: [http://localhost:8000/docs](http://localhost:8000/docs) — Document
 ## 🧪 Rodando os Testes
 
 ```bash
-poetry run task test
+ task test
 ```
 
 ---
