@@ -29,7 +29,7 @@ Ideal para integração em sistemas, aplicações web ou ferramentas de seguran�
 ## 📦 Instalação e Execução
 
 ```bash
-git clone https://github.com/seu-usuario/securepassgen.git
+git clone https://github.com/briellll/securepassgen.git
 cd securepassgen
 poetry install
 ```
